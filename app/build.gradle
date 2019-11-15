@@ -4,9 +4,9 @@ android {
     signingConfigs {
         Goh {
             keyAlias 'CalculatorPlus'
-            keyPassword '970320plowx'
+            keyPassword 'MY_KEY_API'
             storeFile file('C:/Users/weepi/Desktop/CalculatorPlus/Calculator.jks')
-            storePassword '970320plowx'
+            storePassword 'MY_KEY_API'
         }
     }
     compileSdkVersion 27
